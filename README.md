@@ -3,6 +3,8 @@
 🎯 Software Development Engineer 1 (SDE-1) | Backend-leaning Full Stack Developer  
 🚀 Passionate about building scalable apps, exploring quantum computing, and writing clean, maintainable code
 
+- Visit my [Portfolio](https://vandan1729-portfolio.vercel.app/) & [Resume](https://drive.google.com/drive/folders/1TSFx6ybWZpQXzGrsqH7jTfSTSyiofq0J?usp=sharing)
+
 ---
 
 ### 👨‍💻 What I'm working on:
