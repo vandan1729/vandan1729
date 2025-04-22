@@ -3,8 +3,6 @@
 🎯 Software Development Engineer 1 (SDE-1) | Backend-leaning Full Stack Developer  
 🚀 Passionate about building scalable apps, exploring quantum computing, and writing clean, maintainable code
 
-- Visit my [Portfolio](https://vandan1729-portfolio.vercel.app/) & [Resume](https://drive.google.com/drive/folders/1TSFx6ybWZpQXzGrsqH7jTfSTSyiofq0J?usp=sharing)
-
 ---
 
 ### 👨‍💻 What I'm working on:
@@ -35,9 +33,8 @@
 - Efficient DSA practices in C++ and code optimization tips
 
 ### 📫 Reach me at:
-- [Email](mailto:vhp7177@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio-link.com)
+
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vhp7177@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandan1729/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://vandan1729-portfolio.vercel.app/) [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1TSFx6ybWZpQXzGrsqH7jTfSTSyiofq0J?usp=sharing)
 
 ### Tools and Technologies:
 
